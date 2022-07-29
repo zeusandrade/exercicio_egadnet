@@ -1,0 +1,19 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fetch": "^1.1.0",
+    "index.js": "^0.0.3",
+    "node-cache": "^5.1.2",
+    "nodemon": "^2.0.19"
+  },
+  "keywords": [],
+  "description": ""
+}
